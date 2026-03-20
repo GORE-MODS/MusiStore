@@ -1,8 +1,9 @@
 <div align="center">
   <picture>
-    <img alt="GORE.Win" width="700" src="https://github.com/GORE-MODS/Shit-forgit/blob/main/G.Troll.png" 
+    <img alt="MusiStore Logo" width="700" src="https://github.com/GORE-MODS/MusiStore/blob/main/ms-logo.png" 
          style="border-radius:20px; border:4px solid #FF2B6C; box-shadow: 0 0 50px #FF2B6C, inset 0 0 30px rgba(255,43,108,0.4);">
   </picture>
+
 # 🎧 MusiStore
 The Ultimate High-Fidelity Music Streaming & Management Interface.
 
