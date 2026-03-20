@@ -19,15 +19,18 @@ Library Hierarchy: Organized Artist > Album > Song navigation with built-in inst
 # 🛠️ Technical Stack
 Frontend: HTML5, CSS3, JavaScript (ES6+)
 
-Backend: High-performance API integration for streaming and metadata retrieval
+Backend: High-performance API integration for streaming and metadata retrieval.
 
-Styling: Custom Bezier-curve animations and background-clip text effects
+Styling: Custom Bezier-curve animations and background-clip text effects.
 
 # 🚀 Getting Started
 Clone the repository to your server environment.
 
 Ensure your /api/library and /api/stream endpoints are configured.
 
-Launch the index and experience your library in a whole new light.
+Launch the index.html and experience your library in a whole new light.
 
-Note: This project is part of the Gore Tech software suite. All rights reserved.
+Note: This project is part of the Gore Tech™ software suite.
+
+# ⚖️ License
+Distributed under the GNU General Public License. See LICENSE for more information.
